@@ -1,1 +1,1 @@
-# Tibbi-Sigorta-demesi-ile-Makine-renmesi-Projesi
+#Machine learning project with medical insurance payment data
