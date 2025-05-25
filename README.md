@@ -1,1 +1,1 @@
-# T-bbi-Sigorta-demesi-ile-Makine-renmesi-Projesi
+# Tibbi-Sigorta-demesi-ile-Makine-renmesi-Projesi
